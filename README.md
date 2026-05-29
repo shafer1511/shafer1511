@@ -21,8 +21,4 @@
 
 ---
 
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafer1511&show_icons=true&theme=radial)
-
----
 📎 Feel free to explore my repositories or reach out for collaborations!
