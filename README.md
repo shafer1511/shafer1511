@@ -17,7 +17,7 @@
 ---
 
 ### Contact & Connect
-- 📧 **Gmail:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khoanguyen1511kn@gmail.com)
+- 📧 How to reach me: khoanguyen1511kn@gmail.com
 
 ---
 
