@@ -16,14 +16,6 @@
 
 ---
 
-### Highlighted Projects
-
-* **[Real-Time Temperature Monitoring](https://github.com/shafer1511/Real---Time-Temperature--STM32F4)**: A robust framework for STM32F4 utilizing CAN Bus for reliable real-time data transmission.
-* **[Robotic Vehicle Arm](https://github.com/shafer1511/Robotic-Vehicle-Arm)**: 4-DOF remote-controlled robotic vehicle powered by STM32 with a custom UART protocol.
-* **[SayTeaCoffee POS Management](https://github.com/shafer1511/SayTeaCoffee-POS-Management)**: A desktop franchise management application using C# WPF and MySQL (ensuring ACID transactions).
-
----
-
 ### Contact & Connect
 - 📧 **Gmail:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khoanguyen1511kn@gmail.com)
 
